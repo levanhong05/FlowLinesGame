@@ -1,0 +1,6 @@
+/build
+/obj
+*.meta
+/Library/metadata
+/Library/ShaderCache
+/Library/*.log

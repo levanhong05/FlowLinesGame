@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DrawLines/Scenes/Levels.unity
+  isLoaded: 1
+  isActive: 1
