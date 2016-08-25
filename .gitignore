@@ -4,3 +4,5 @@
 /Library/metadata
 /Library/ShaderCache
 /Library/*.log
+/Temp
+/*.userprefs
